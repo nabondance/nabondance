@@ -21,25 +21,27 @@ MeilleursAgents/SCALE-srv-py: [![time tracker](https://wakatime.com/badge/github
 #### GitHub stats
 -->
 
-<a href="https://github.com/nabondance/nabondance">
+<a href="https://github.com/nabondance">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=nabondance&show_icons=true&hide_border=true&count_private=true&icon_color=008080" alt="Nathan's GitHub Stats" />
 </a>
-<a href="https://github.com/nabondance/nabondance">
+<a href="https://github.com/nabondance">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabondance&count_private=true&icon_color=008080" />
 </a>
 
 ### 📊 Languages of the week
 
 <!--START_SECTION:waka-->
+
 ```text
 Week: 13 August, 2020 - 20 August, 2020
 
-Other          19 hrs 47 mins  ██████████████████████▒░░   89.56 % 
-OpenEdge ABL   1 hr 3 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
-XML            39 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
-Markdown       21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
-JSON           13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
+Other          19 hrs 47 mins  ██████████████████████▒░░   89.56 %
+OpenEdge ABL   1 hr 3 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   04.80 %
+XML            39 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.96 %
+Markdown       21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 %
+JSON           13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
 ```
+
 <!--END_SECTION:waka-->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nabondance" alt="profile views" /> </p>
