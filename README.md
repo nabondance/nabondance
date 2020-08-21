@@ -28,7 +28,7 @@ MeilleursAgents/SCALE-srv-py: [![time tracker](https://wakatime.com/badge/github
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabondance&count_private=true&icon_color=008080" />
 </a>
 
-### 📊 Languages of the week
+### 📰 Stats of the week
 
 <!--START_SECTION:waka-->
 **I'm an Early 🐤** 
