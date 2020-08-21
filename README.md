@@ -41,3 +41,5 @@ Markdown       21 mins         ▒░░░░░░░░░░░░░░░�
 JSON           13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
 ```
 <!--END_SECTION:waka-->
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nabondance" alt="profile views" /> </p>
