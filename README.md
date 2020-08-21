@@ -29,4 +29,11 @@ MeilleursAgents/SCALE-srv-py: [![time tracker](https://wakatime.com/badge/github
 </a>
 
 <!--START_SECTION:waka-->
+```text
+Other          19 hrs 47 mins  ██████████████████████▒░░   89.56 % 
+OpenEdge ABL   1 hr 3 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
+XML            39 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
+Markdown       21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
+JSON           13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
+```
 <!--END_SECTION:waka-->
