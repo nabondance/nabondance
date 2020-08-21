@@ -15,4 +15,4 @@ jobs:
               with:
                   WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
                   SHOW_TITLE: true
-                  COMMIT_MESSAGE: Updated the Readme with WakaTime metrics
+                  COMMIT_MESSAGE: (GitHub Action) Updated the Readme with WakaTime metrics
