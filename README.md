@@ -27,3 +27,6 @@ MeilleursAgents/SCALE-srv-py: [![time tracker](https://wakatime.com/badge/github
 <a href="https://github.com/nabondance/nabondance">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabondance&count_private=true&icon_color=008080" />
 </a>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
