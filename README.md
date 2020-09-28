@@ -25,7 +25,7 @@ MeilleursAgents/SCALE-srv-py: [![time tracker](https://wakatime.com/badge/github
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=nabondance&show_icons=true&hide_border=true&count_private=true&icon_color=008080" alt="Nathan's GitHub Stats" />
 </a>
 <a href="https://github.com/nabondance">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabondance&count_private=true&icon_color=008080" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabondance&count_private=true&include_all_commits=true&icon_color=008080" />
 </a>
 
 ### 📰 Stats of the week
