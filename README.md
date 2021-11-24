@@ -10,7 +10,7 @@ I'm Nathan, that's all folks !
 ![](https://img.shields.io/badge/Code-Apex-informational?style=flat&logo=salesforce&logoColor=white&color=008080)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=008080)
 
-## 👨‍💻 Sometimes I work
+## 👨‍💻 Sometimes I work (not really accurate 🤷‍♂️)
 
 <!--
 #### Time spent on main repos
@@ -28,10 +28,10 @@ MeilleursAgents/SCALE-srv-py: [![time tracker](https://wakatime.com/badge/github
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabondance&count_private=true&include_all_commits=true&icon_color=008080" />
 </a>
 
-### 📰 Stats of the week
+### 📰 Stats of the week (not very up to date)
 
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 💬 Programming Languages: 
