@@ -31,7 +31,7 @@ MeilleursAgents/SCALE-srv-py: [![time tracker](https://wakatime.com/badge/github
 ### 📰 Stats of the week (not very up to date)
 
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On**
+📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
@@ -44,7 +44,7 @@ LWC                      32 mins             █░░░░░░░░░░�
 ```
 
 
- Last Updated on 24/11/2021
+ Last Updated on 25/11/2021
 <!--END_SECTION:waka-->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nabondance" alt="profile views" /> </p>
