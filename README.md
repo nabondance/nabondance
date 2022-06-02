@@ -35,9 +35,23 @@ MeilleursAgents/SCALE-srv-py: [![time tracker](https://wakatime.com/badge/github
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11%20Thousand%20lines%20of%20code-blue)
 
+**🐱 My GitHub Data** 
+
+> 🏆 634 Contributions in the Year 2022
+ > 
+> 📦 6.7 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 11 Public Repositories 
+ > 
+> 🔑 4 Private Repositories  
+ > 
 📊 **This Week I Spent My Time On** 
 
 ```text
+⌚︎ Time Zone: Europe/Paris
+
 💬 Programming Languages: 
 JavaScript               4 hrs 25 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀   64.27% 
 XML                      1 hr 3 mins         ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   15.33% 
@@ -48,7 +62,7 @@ Bash                     12 mins             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ```
 
 
- Last Updated on 02/06/2022 09:05:18 UTC
+ Last Updated on 02/06/2022 09:14:44 UTC
 <!--END_SECTION:waka-->
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=nabondance" alt="profile views" /> </p>-->
