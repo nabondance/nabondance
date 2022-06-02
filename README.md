@@ -51,4 +51,4 @@ Bash                     12 mins             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
  Last Updated on 02/06/2022 09:05:18 UTC
 <!--END_SECTION:waka-->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nabondance" alt="profile views" /> </p>
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=nabondance" alt="profile views" /> </p>-->
