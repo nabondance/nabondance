@@ -31,22 +31,22 @@ MeilleursAgents/SCALE-srv-py: [![time tracker](https://wakatime.com/badge/github
 ### 📰 Stats of the week (not very up to date)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C695%20hrs%2059%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-XML                      21 mins             ███████████████░░░░░░░░░░   63.47% 
-PowerShell               7 mins              █████░░░░░░░░░░░░░░░░░░░░   21.53% 
-JSON                     3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   9.31% 
-Git                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   3.11% 
-LWC                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.3%
+JavaScript               4 hrs 25 mins       ████████████████░░░░░░░░░   64.27% 
+XML                      1 hr 3 mins         ███░░░░░░░░░░░░░░░░░░░░░░   15.33% 
+JSON                     36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.83% 
+Other                    13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.28% 
+Bash                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.03%
 
 ```
 
 
- Last Updated on 02/06/2022 00:19:06 UTC
+ Last Updated on 02/06/2022 08:51:30 UTC
 <!--END_SECTION:waka-->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nabondance" alt="profile views" /> </p>
