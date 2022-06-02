@@ -31,7 +31,7 @@ MeilleursAgents/SCALE-srv-py: [![time tracker](https://wakatime.com/badge/github
 ### 📰 Stats of the week (not very up to date)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C695%20hrs%2059%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C696%20hrs%202%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -46,7 +46,7 @@ Bash                     12 mins             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 02/06/2022 08:51:30 UTC
+ Last Updated on 02/06/2022 08:57:45 UTC
 <!--END_SECTION:waka-->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nabondance" alt="profile views" /> </p>
