@@ -31,22 +31,24 @@ MeilleursAgents/SCALE-srv-py: [![time tracker](https://wakatime.com/badge/github
 ### 📰 Stats of the week (not very up to date)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C696%20hrs%202%20mins-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-27-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11%20Thousand%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-JavaScript               4 hrs 25 mins       ████████████████░░░░░░░░░   64.27% 
-XML                      1 hr 3 mins         ███░░░░░░░░░░░░░░░░░░░░░░   15.33% 
-JSON                     36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.83% 
-Other                    13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.28% 
-Bash                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.03%
+JavaScript               4 hrs 25 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀   64.27% 
+XML                      1 hr 3 mins         ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   15.33% 
+JSON                     36 mins             ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   8.83% 
+Other                    13 mins             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   3.28% 
+Bash                     12 mins             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   3.03%
 
 ```
 
 
- Last Updated on 02/06/2022 08:57:45 UTC
+ Last Updated on 02/06/2022 09:05:18 UTC
 <!--END_SECTION:waka-->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nabondance" alt="profile views" /> </p>
