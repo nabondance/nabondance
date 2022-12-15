@@ -37,7 +37,7 @@ MeilleursAgents/SCALE-srv-py: [![time tracker](https://wakatime.com/badge/github
 
 **🐱 My GitHub Data** 
 
-> 🏆 1,729 Contributions in the Year 2022
+> 🏆 1,733 Contributions in the Year 2022
  > 
 > 📦 7.1 kB Used in GitHub's Storage 
  > 
@@ -53,16 +53,16 @@ MeilleursAgents/SCALE-srv-py: [![time tracker](https://wakatime.com/badge/github
 ⌚︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Apex                     4 hrs 58 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   51.04% 
-XML                      1 hr 4 mins         ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   11.1% 
-JSON                     53 mins             ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   9.18% 
-Other                    50 mins             ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   8.7% 
-JavaScript               31 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   5.45%
+Apex                     6 hrs 46 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   57.58% 
+XML                      1 hr 4 mins         ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   9.16% 
+JSON                     52 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   7.49% 
+Other                    50 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   7.21% 
+JavaScript               43 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   6.22%
 
 ```
 
 
- Last Updated on 14/12/2022 00:15:46 UTC
+ Last Updated on 15/12/2022 00:15:00 UTC
 <!--END_SECTION:waka-->
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=nabondance" alt="profile views" /> </p>-->
