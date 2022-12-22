@@ -8,8 +8,8 @@
 
 <h2>🐱‍💻 About me</h2>
 <ul>
-    <li>🙋‍♂️ I'm Nathan</li>
-    <li>🖥 Salesforce Dev</li>
+    <li>🙋‍♂️ I'm Nathan !</li>
+    <li>🖥 Salesforce developer</li>
     <li>💼 Salesforce team leader at <a href="https://www.aviv-group.com/">Aviv Group</a></li>
     <li>🎓 <a href="https://www.esilv.fr/">ESILV</a> & <a href="https://www.hanze.nl/eng">Hanze</a></li>
     <li>🐈 I have a cat called Newton</li>
@@ -50,30 +50,24 @@
 <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
 <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
-
 </details>
 <details>
   <summary><h2>📊 Github Stats</h2></summary>
   <h3>🔥 Streak Stats</h3>
-
   <!-- GitHub Readme Streak Stats - https://github.com/nabondance/github-readme-streak-stats -->
   <br>
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="nabondance's streak" src="https://streak-stats.demolab.com/?user=nabondance&theme=monokai-metallian&hide_border=true"/>
   </p>
 
   <!-- <h3>🏆 GitHub Trophies</h3> -->
-
   <!-- https://github.com/ryo-ma/github-profile-trophy -->
-
   <!-- <a href="https://github-profile-trophy.vercel.app/?username=nabondance&theme=chalk&column=7&no-frame=true"><img alt="nabondance's Github Trophies" src="https://github-profile-trophy.vercel.app/?username=nabondance&theme=chalk&column=7&no-frame=true" height="192px"/></a> -->
 
 
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="nabondance's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=nabondance&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
   <h3>📜 Metrics</h3>
   <!-- https://github.com/lowlighter/metrics -->
   <img align="center" src="/github-metrics.svg" alt="nabondance's metrics" width="400">
-
 </details>
