@@ -16,6 +16,11 @@
     <li>👷‍♂️ Currently working on a sfdx plugin</li>
 </ul>
 
+<h2>📣 My speaks</h2>
+<ul>
+    <li>🥖 At French Touch Dreamin: <a href="https://speakerdeck.com/nabondance/frenchtouchdreamin-real-data-in-dev-environment-from-myth-to-reality">Real data in dev environment</a></li>
+</ul>
+
 <details>
   <summary><h2>🔧 Technologies & Tools</h2></summary>
   <h3>👨‍💻 OS & IDE</h3>
