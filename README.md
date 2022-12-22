@@ -1,14 +1,74 @@
-# Hello, people of the internet 👋
+<h1>Hello, people of the internet 👋</h1>
+<a href="https://www.linkedin.com/in/nathanabondance/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://trailblazer.me/id/nabondance" target="_blank">
+    <img src="https://img.shields.io/badge/Trailhead-black?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABABAMAAABYR2ztAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAwUExURQMtYANrOAtLXkNHf2U4jACZRGOPo2mmznrFmqFwtI+asa+3xpXKqYzS9/3+/gAAAJtcWxAAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJtSURBVEjHrZU/axRBGMYf1/UkkT3YIv1yaKn4EUJYhCsETzhJEeWKWMmBXyDfIcU121nYpAl+gnT2i4gBYSVNQAzMZ3DePzPz7mYvNr7F3c7Mb5/nmdmZXbh+rSaDjgHwHLh/F3AAX/l2oKVxVMU24Apa0y0AjZ1c0u/FKEAj66774f+yMYAMXna+vvdMYAWKjouy3gZIoNOqjEQAbihgACjo+QD4Eg3U5NEAMAZUKQVigsICbUyBUQEjgVEBI4FxgSQBnaMIVGsrcRGBK13kFnln1mIageDwEVXy2BcPWAfYrN/EA+JworZ4bGNOFfBi6tCbzYp3JzhCdLAeLYeAnQN2wPPAWufxTIFMJdGckkeLhykE6DCEdn62IY+QpKUQiBHIoTnzG/YSqYeAG43gT1XTkAfNljX9/v7lgRCBBJrms56dGIIAbrUCNAoUCfgkjX12YA94aiIhdj2g9Aw5AxuE2UpKAp6qw7yREDsEFPK8GKAn5R3quVpwklzW0kEz+vvqWkMyVmlKBVoG5iyQS5KiB5BDAFhJnxoDtGq+valpxDtsaonCO4QAr+Ud8pokTvliHjxaD6xwZ03wj8rwPyqbpaqPX5jWrGLgyTKVc79Na/l6BLgeBxbS8c655ThQ7nHH2wgs+sCiLIOFEmUfKEuVcEospC3AA1XdkxAcsxTJVzDTWJRWwjgEQu45NICM00s8YwGxPXLuvRmfgt7SvcVy7msaL+jw8oKHpMs3asG9crpd75HIYop9Zl6DEaGQmj5Lr+K477J7xwfhenfwOYiM/vc/ByFIKjf44jj3xw6fu9uAr58y+iH1OPcXyQjg36aF5SwAAAAASUVORK5CYII=&labelColor=white&color=009A44" />
+</a>
 
-I'm Nathan, that's all folks !
+<h2>🐱‍💻 About me</h2>
+<ul>
+    <li>🙋‍♂️ I'm Nathan</li>
+    <li>🖥 Salesforce Dev</li>
+    <li>💼 Salesforce team leader at <a href="https://www.aviv-group.com/">Aviv Group</a></li>
+    <li>🎓 <a href="https://www.esilv.fr/">ESILV</a> & <a href="https://www.hanze.nl/eng">Hanze</a></li>
+    <li>🐈 I have a cat called Newton</li>
+    <li>👷‍♂️ Currently working on a sfdx plugin</li>
+</ul>
 
-## 🔧 Technologies & Tools
+<details>
+  <summary><h2>🔧 Technologies & Tools</h2></summary>
+  <h3>👨‍💻 OS & IDE</h3>
+<img src="https://img.shields.io/badge/dell-XPS%2015%20-007DB8?style=for-the-badge&logo=dell&logoColor=white" />
+<br>
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+<br>
+<img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 
-![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=data:image/svg%2bxml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+VmlzdWFsIFN0dWRpbyBDb2RlIGljb248L3RpdGxlPjxwYXRoIGQ9Ik0yMy4xNSAyLjU4N0wxOC4yMS4yMWExLjQ5NCAxLjQ5NCAwIDAgMC0xLjcwNS4yOWwtOS40NiA4LjYzLTQuMTItMy4xMjhhLjk5OS45OTkgMCAwIDAtMS4yNzYuMDU3TC4zMjcgNy4yNjFBMSAxIDAgMCAwIC4zMjYgOC43NEwzLjg5OSAxMiAuMzI2IDE1LjI2YTEgMSAwIDAgMCAuMDAxIDEuNDc5TDEuNjUgMTcuOTRhLjk5OS45OTkgMCAwIDAgMS4yNzYuMDU3bDQuMTItMy4xMjggOS40NiA4LjYzYTEuNDkyIDEuNDkyIDAgMCAwIDEuNzA0LjI5bDQuOTQyLTIuMzc3QTEuNSAxLjUgMCAwIDAgMjQgMjAuMDZWMy45MzlhMS41IDEuNSAwIDAgMC0uODUtMS4zNTJ6bS01LjE0NiAxNC44NjFMMTAuODI2IDEybDcuMTc4LTUuNDQ4djEwLjg5NnoiLz48L3N2Zz4=&logoColor=white&color=008080)
+  <h3>🔧 Tools</h3>
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+<br>
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" />
+<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
+<img src="https://img.shields.io/badge/Google%20Meet-00897B?style=for-the-badge&logo=google-meet&logoColor=white" />
 
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=008080)
-![](https://img.shields.io/badge/Code-Apex-informational?style=flat&logo=salesforce&logoColor=white&color=008080)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=008080)
+  <h3>🌐 Languages</h3>
+<img src="https://img.shields.io/badge/Apex-informational?style=for-the-badge&logo=salesforce&logoColor=white&color=008080" />
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 
-## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=nabondance&theme=chalk&column=7&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+  <h3>☁ Clouds</h3>
+<img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+
+</details>
+<details>
+  <summary><h2>📊 Github Stats</h2></summary>
+  <h3>🔥 Streak Stats</h3>
+
+  <!-- GitHub Readme Streak Stats - https://github.com/nabondance/github-readme-streak-stats -->
+  <br>
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="nabondance's streak" src="https://streak-stats.demolab.com/?user=nabondance&theme=monokai-metallian&hide_border=true"/>
+  </p>
+
+  <!-- <h3>🏆 GitHub Trophies</h3> -->
+
+  <!-- https://github.com/ryo-ma/github-profile-trophy -->
+
+  <!-- <a href="https://github-profile-trophy.vercel.app/?username=nabondance&theme=chalk&column=7&no-frame=true"><img alt="nabondance's Github Trophies" src="https://github-profile-trophy.vercel.app/?username=nabondance&theme=chalk&column=7&no-frame=true" height="192px"/></a> -->
+
+
+  <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="nabondance's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=nabondance&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
+  <h3>📜 Metrics</h3>
+  <!-- https://github.com/lowlighter/metrics -->
+<img title="Metrics" alt="nabondance's metrics" src="https://metrics.lecoq.io/nabondance?template=classic&achievements=1&activity=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&config.timezone=Europe%2FParis"/>
+
+</details>
