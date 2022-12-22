@@ -9,3 +9,6 @@ I'm Nathan, that's all folks !
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=008080)
 ![](https://img.shields.io/badge/Code-Apex-informational?style=flat&logo=salesforce&logoColor=white&color=008080)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=008080)
+
+## 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=nabondance&theme=chalk&column=7&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
