@@ -1,14 +1,16 @@
 <h1>Hello, people of the internet <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="25" height="25" /></h1>
 
+<p>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Right%20Light%20Skin%20Tone.png" alt="Backhand Index Pointing Right Light Skin Tone" width="25" height="25" />
+<a href="https://www.linkedin.com/in/nathanabondance/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://trailblazer.me/id/nabondance" target="_blank">
     <img src="https://img.shields.io/badge/Trailhead-black?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABABAMAAABYR2ztAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAwUExURQMtYANrOAtLXkNHf2U4jACZRGOPo2mmznrFmqFwtI+asa+3xpXKqYzS9/3+/gAAAJtcWxAAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJtSURBVEjHrZU/axRBGMYf1/UkkT3YIv1yaKn4EUJYhCsETzhJEeWKWMmBXyDfIcU121nYpAl+gnT2i4gBYSVNQAzMZ3DePzPz7mYvNr7F3c7Mb5/nmdmZXbh+rSaDjgHwHLh/F3AAX/l2oKVxVMU24Apa0y0AjZ1c0u/FKEAj66774f+yMYAMXna+vvdMYAWKjouy3gZIoNOqjEQAbihgACjo+QD4Eg3U5NEAMAZUKQVigsICbUyBUQEjgVEBI4FxgSQBnaMIVGsrcRGBK13kFnln1mIageDwEVXy2BcPWAfYrN/EA+JworZ4bGNOFfBi6tCbzYp3JzhCdLAeLYeAnQN2wPPAWufxTIFMJdGckkeLhykE6DCEdn62IY+QpKUQiBHIoTnzG/YSqYeAG43gT1XTkAfNljX9/v7lgRCBBJrms56dGIIAbrUCNAoUCfgkjX12YA94aiIhdj2g9Aw5AxuE2UpKAp6qw7yREDsEFPK8GKAn5R3quVpwklzW0kEz+vvqWkMyVmlKBVoG5iyQS5KiB5BDAFhJnxoDtGq+valpxDtsaonCO4QAr+Ud8pokTvliHjxaD6xwZ03wj8rwPyqbpaqPX5jWrGLgyTKVc79Na/l6BLgeBxbS8c655ThQ7nHH2wgs+sCiLIOFEmUfKEuVcEospC3AA1XdkxAcsxTJVzDTWJRWwjgEQu45NICM00s8YwGxPXLuvRmfgt7SvcVy7msaL+jw8oKHpMs3asG9crpd75HIYop9Zl6DEaGQmj5Lr+K477J7xwfhenfwOYiM/vc/ByFIKjf44jj3xw6fu9uAr58y+iH1OPcXyQjg36aF5SwAAAAASUVORK5CYII=&labelColor=white&color=009A44" />
 </a>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Left.png" alt="Backhand Index Pointing Left" width="25" height="25" />
+</p>
 
-<br>
 <h2>🐱‍💻 About me</h2>
 <ul>
     <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" /> I'm Nathan !</li>
@@ -62,7 +64,7 @@
 <details>
   <summary><h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart Increasing" width="25" height="25" />
    Github Stats</h2></summary>
-  <h3><img src="  https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25" />
+  <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25" />
    Streak Stats</h3>
   <!-- GitHub Readme Streak Stats - https://github.com/nabondance/github-readme-streak-stats -->
   <br>
