@@ -46,3 +46,8 @@ jobs:
           plugin_reactions_limit_discussions_comments: 100
           plugin_reactions_limit_issues: 100
           plugin_traffic: yes
+          plugin_starlists: yes
+          plugin_starlists_limit: 2
+          plugin_starlists_limit_languages: 8
+          plugin_starlists_limit_repositories: 0
+          plugin_starlists_shuffle_repositories: yes
