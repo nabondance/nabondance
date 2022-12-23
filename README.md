@@ -79,7 +79,15 @@
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="nabondance's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=nabondance&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
-  <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Page%20with%20Curl.png" alt="Page with Curl" width="25" height="25" />   Metrics</h3>
+  <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Page%20with%20Curl.png" alt="Page with Curl" width="25" height="25" />
+   Metrics</h3>
   <!-- https://github.com/lowlighter/metrics -->
   <img align="center" src="/github-metrics.svg" alt="nabondance's metrics" width="400">
 </details>
+
+<!-- https://github.com/Platane/snk -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nabondance/nabondance/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nabondance/nabondance/output/github-snake.svg">
+  <img alt="Shows a snake in either light or dark theme." src="https://raw.githubusercontent.com/nabondance/nabondance/output/github-snake.svg">
+</picture>
