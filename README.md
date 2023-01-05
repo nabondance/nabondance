@@ -8,7 +8,7 @@
 <a href="https://trailblazer.me/id/nabondance" target="_blank">
     <img src="https://img.shields.io/badge/Trailhead-black?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABABAMAAABYR2ztAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAwUExURQMtYANrOAtLXkNHf2U4jACZRGOPo2mmznrFmqFwtI+asa+3xpXKqYzS9/3+/gAAAJtcWxAAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJtSURBVEjHrZU/axRBGMYf1/UkkT3YIv1yaKn4EUJYhCsETzhJEeWKWMmBXyDfIcU121nYpAl+gnT2i4gBYSVNQAzMZ3DePzPz7mYvNr7F3c7Mb5/nmdmZXbh+rSaDjgHwHLh/F3AAX/l2oKVxVMU24Apa0y0AjZ1c0u/FKEAj66774f+yMYAMXna+vvdMYAWKjouy3gZIoNOqjEQAbihgACjo+QD4Eg3U5NEAMAZUKQVigsICbUyBUQEjgVEBI4FxgSQBnaMIVGsrcRGBK13kFnln1mIageDwEVXy2BcPWAfYrN/EA+JworZ4bGNOFfBi6tCbzYp3JzhCdLAeLYeAnQN2wPPAWufxTIFMJdGckkeLhykE6DCEdn62IY+QpKUQiBHIoTnzG/YSqYeAG43gT1XTkAfNljX9/v7lgRCBBJrms56dGIIAbrUCNAoUCfgkjX12YA94aiIhdj2g9Aw5AxuE2UpKAp6qw7yREDsEFPK8GKAn5R3quVpwklzW0kEz+vvqWkMyVmlKBVoG5iyQS5KiB5BDAFhJnxoDtGq+valpxDtsaonCO4QAr+Ud8pokTvliHjxaD6xwZ03wj8rwPyqbpaqPX5jWrGLgyTKVc79Na/l6BLgeBxbS8c655ThQ7nHH2wgs+sCiLIOFEmUfKEuVcEospC3AA1XdkxAcsxTJVzDTWJRWwjgEQu45NICM00s8YwGxPXLuvRmfgt7SvcVy7msaL+jw8oKHpMs3asG9crpd75HIYop9Zl6DEaGQmj5Lr+K477J7xwfhenfwOYiM/vc/ByFIKjf44jj3xw6fu9uAr58y+iH1OPcXyQjg36aF5SwAAAAASUVORK5CYII=&labelColor=white&color=009A44" />
 </a>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Left.png" alt="Backhand Index Pointing Left" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Left%20Light%20Skin%20Tone.png" alt="Backhand Index Pointing Left" width="25" height="25" />
 </p>
 
 <h2>🐱‍💻 About me</h2>
