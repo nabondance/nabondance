@@ -24,7 +24,8 @@
 <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Megaphone.png" alt="Megaphone" width="25" height="25" />
  My speaks</h2>
 <ul>
-    <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Baguette%20Bread.png" alt="Baguette Bread" width="25" height="25" /> At French Touch Dreamin: <a href="https://speakerdeck.com/nabondance/frenchtouchdreamin-real-data-in-dev-environment-from-myth-to-reality">Real data in dev environment</a></li>
+    <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Baguette%20Bread.png" alt="Baguette Bread" width="25" height="25" /> At French Touch Dreamin: <a href="https://speakerdeck.com/nabondance/frenchtouchdreamin-real-data-in-dev-environment-from-myth-to-reality">Real data in dev environment</a><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Film%20Projector.png" alt="Film Projector" width="25" height="25" /> <a href="https://www.youtube.com/watch?v=skFz7WMMnsE&ab_channel=FrenchTouchDreamin">video</a></li>
+
 </ul>
 
 <details>
