@@ -21,18 +21,18 @@
     <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Camping.png" alt="Camping" width="25" height="25" /> Triple Star Ranger</li>
 </ul>
 
-<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Construction.png" alt="Construction" width="25" height="25" />
-  Currently working on</h2>
-<ul>
-  <li><a href="https://github.com/nabondance/afthonia">Afthonia</a>: a sfdx plugin</li>
-  <li><a href="https://github.com/nabondance/Trailhead-Stats-Updater">Trailhead-Stats-Updater</a>: a GH Action to bring Trailhead into GitHub profile Readme</li>
-</ul>
-
 <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Megaphone.png" alt="Megaphone" width="25" height="25" />
  My speaks</h2>
 <ul>
     <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Baguette%20Bread.png" alt="Baguette Bread" width="25" height="25" /> At French Touch Dreamin 22: <a href="https://speakerdeck.com/nabondance/frenchtouchdreamin-real-data-in-dev-environment-from-myth-to-reality">Real data in dev environment</a>  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Film%20Projector.png" alt="Film Projector" width="25" height="25" /> <a href="https://www.youtube.com/watch?v=skFz7WMMnsE&ab_channel=FrenchTouchDreamin">video</a></li>
     <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Baguette%20Bread.png" alt="Baguette Bread" width="25" height="25" /> At French Touch Dreamin 23: <a href="https://speakerdeck.com/nabondance/frenchtouchdreamin-elevate-your-devops-how-scratch-orgs-pools-fit-into-your-salesforce-strategy">How Scratch Orgs Pools Fit Into Your Salesforce Strategy</a>  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Film%20Projector.png" alt="Film Projector" width="25" height="25" /> <a href="https://www.youtube.com/watch?v=09WEqN1emIM&ab_channel=FrenchTouchDreamin">video</a></li>
+</ul>
+
+<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Construction.png" alt="Construction" width="25" height="25" />
+  Currently working on</h2>
+<ul>
+  <li><a href="https://github.com/nabondance/afthonia">Afthonia</a>: a sfdx plugin</li>
+  <li><a href="https://github.com/nabondance/Trailhead-Stats-Updater">Trailhead-Stats-Updater</a>: a GH Action to bring Trailhead into GitHub profile Readme</li>
 </ul>
 
 <details>
