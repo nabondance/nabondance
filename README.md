@@ -29,7 +29,7 @@
 </ul>
 
 <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Construction.png" alt="Construction" width="25" height="25" />
-  Currently working on</h2>
+  Current open source projects</h2>
 <ul>
   <li><a href="https://github.com/nabondance/afthonia">Afthonia</a>: a sfdx plugin</li>
   <li><a href="https://github.com/nabondance/Trailhead-Stats-Updater">Trailhead-Stats-Updater</a>: a GH Action to bring Trailhead into GitHub profile Readme</li>
