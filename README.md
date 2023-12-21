@@ -19,7 +19,13 @@
     <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Student%20Light%20Skin%20Tone.png" alt="Student Light Skin Tone" width="25" height="25" /> <a href="https://www.esilv.fr/">ESILV</a> & <a href="https://www.hanze.nl/eng">Hanze</a></li>
     <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat.png" alt="Cat" width="25" height="25" /> I have a cat called Newton</li>
     <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Camping.png" alt="Camping" width="25" height="25" /> Triple Star Ranger</li>
-    <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Construction.png" alt="Construction" width="25" height="25" /> Currently working on the <a href="https://github.com/nabondance/afthonia">Afthonia sfdx plugin</a></li>
+</ul>
+
+<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Construction.png" alt="Construction" width="25" height="25" />
+  Currently working on</h2>
+<ul>
+  <li><a href="https://github.com/nabondance/afthonia">Afthonia</a>: a sfdx plugin</li>
+  <li><a href="https://github.com/nabondance/Trailhead-Stats-Updater">Trailhead-Stats-Updater</a>: a GH Action to bring Trailhead into GitHub profile Readme</li>
 </ul>
 
 <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Megaphone.png" alt="Megaphone" width="25" height="25" />
