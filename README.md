@@ -38,7 +38,15 @@
 <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Construction.png" alt="Construction" width="25" height="25" />
   My Trailhead Stats</h2>
 <!--TH_Stats:start-->
-<!--TH_Stats:end-->
+<ul><li>Rank: Triple Star Ranger</li>
+<li>Badges: 480</li>
+<li>Points: 185300</li>
+<li>Number of trails completed: 44</li>
+<li>Number of Superbadge: 5</li>
+<li>Last Superbadge earned: Access Governance Superbadge Unit</li>
+<li>Number of Certification: 2</li>
+<li>Last Certification earned: Salesforce Certified Associate</li>
+</ul><!--TH_Stats:end-->
 
 <details>
   <summary><h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="25" height="25" /> Technologies & Tools</h2></summary>
