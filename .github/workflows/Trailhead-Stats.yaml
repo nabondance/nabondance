@@ -14,7 +14,7 @@ on:
         description: 'Type of display: text|card|output'
         required: false
         type: string
-        default: 'text'
+        default: 'html'
       display-file:
         description: File to update to display
         required: false
