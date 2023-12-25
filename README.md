@@ -32,10 +32,10 @@
   Current open source projects</h2>
 <ul>
   <li><a href="https://github.com/nabondance/afthonia">Afthonia</a>: a sfdx plugin</li>
-  <li><a href="https://github.com/nabondance/Trailhead-Stats-Updater">Trailhead-Stats-Updater</a>: a GH Action to bring Trailhead into GitHub profile Readme</li>
+  <li><a href="https://github.com/nabondance/Trailhead-Stats-Updater">Trailhead-Stats-Updater</a>: a GH Action to bring Trailhead into GitHub profile Readme (see bellow)</li>
 </ul>
 
-<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Construction.png" alt="Construction" width="25" height="25" />
+<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Teddy%20Bear.png" alt="Teddy Bear" width="25" height="25" />
   My Trailhead Stats</h2>
 <!--TH_Stats:start-->
 <ul><li>Rank: Triple Star Ranger</li>
