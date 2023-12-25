@@ -38,15 +38,7 @@
 <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Teddy%20Bear.png" alt="Teddy Bear" width="25" height="25" />
   My Trailhead Stats</h2>
 <!--TH_Stats:start-->
-Rank: Triple Star Ranger  
-Badges: 480  
-Points: 185300  
-Number of trails completed: 44  
-Number of Superbadge: 5  
-Last Superbadge earned: Access Governance Superbadge Unit  
-Number of Certification: 2  
-Last Certification earned: Salesforce Certified Associate  
-<!--TH_Stats:end-->
+[object Object]<!--TH_Stats:end-->
 
 <details>
   <summary><h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="25" height="25" /> Technologies & Tools</h2></summary>
