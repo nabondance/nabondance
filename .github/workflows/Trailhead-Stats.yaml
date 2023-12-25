@@ -33,7 +33,7 @@ jobs:
         uses: actions/checkout@v4
       - name: Get Trailhead stats
         id: trailhead-stats
-        uses: nabondance/Trailhead-Stats@develop
+        uses: nabondance/Trailhead-Stats@main
         with:
           trailhead-username: ${{ inputs.trailhead-username }}
           display-type: ${{ inputs.display-type }}
