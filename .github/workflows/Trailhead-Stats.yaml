@@ -35,6 +35,6 @@ jobs:
         id: trailhead-stats
         uses: nabondance/Trailhead-Stats@main
         with:
-          trailhead-username: ${{ inputs.trailhead-username }}
-          display-type: ${{ inputs.display-type }}
-          display-file: ${{ inputs.display-file }}
+          trailhead-username: ${{ github.event.inputs.trailhead-username }}
+          display-type: ${{ github.event.inputs.display-type }}
+          display-file: ${{ github.event.inputs.display-file }}
