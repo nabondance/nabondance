@@ -4,22 +4,6 @@ on:
   schedule:
     - cron: '0 0 * * *' # Runs daily
   workflow_dispatch:
-    inputs:
-      trailhead-username:
-        description: Username on Trailhead
-        required: true
-        type: string
-        default: 'nabondance'
-      display-type:
-        description: 'Type of display: text|card|output'
-        required: false
-        type: string
-        default: 'html'
-      display-file:
-        description: File to update to display
-        required: false
-        type: string
-        default: 'README.md'
 
 jobs:
   trailhead-stats:
@@ -35,6 +19,6 @@ jobs:
         id: trailhead-stats
         uses: nabondance/Trailhead-Stats@main
         with:
-          trailhead-username: ${{ github.event.inputs.trailhead-username }}
-          display-type: ${{ github.event.inputs.display-type }}
-          display-file: ${{ github.event.inputs.display-file }}
+          trailhead-username: nabondance
+          display-type: 'html'
+          display-file: 'README.md'
