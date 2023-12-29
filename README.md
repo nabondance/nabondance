@@ -46,6 +46,7 @@
 <li>Last Superbadge earned: Access Governance Superbadge Unit</li>
 <li>Number of Certification: 2</li>
 <li>Last Certification earned: Salesforce Certified Associate</li>
+<li>Number of Stamps Earned: 0</li>
 </ul><!--TH_Stats:end-->
 
 <details>
