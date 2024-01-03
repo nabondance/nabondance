@@ -39,8 +39,8 @@
   My Trailhead Stats</h2>
 <!--TH_Stats:start-->
 <ul><li>Rank: Triple Star Ranger</li>
-<li>Badges: 480</li>
-<li>Points: 185300</li>
+<li>Badges: 481</li>
+<li>Points: 185400</li>
 <li>Number of trails completed: 44</li>
 <li>Number of Superbadge: 5</li>
 <li>Last Superbadge earned: Access Governance Superbadge Unit</li>
