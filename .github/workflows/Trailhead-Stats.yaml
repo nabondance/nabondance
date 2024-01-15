@@ -20,5 +20,5 @@ jobs:
         uses: nabondance/Trailhead-Stats@main
         with:
           trailhead-username: nabondance
-          display-type: 'html'
+          display-type: 'card'
           display-file: 'README.md'
