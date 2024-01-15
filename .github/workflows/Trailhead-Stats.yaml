@@ -23,4 +23,4 @@ jobs:
           trailhead-username: nabondance
           display-type: 'card'
           display-file: 'README.md'
-          card-path: 'images'
+          card-path: './'
