@@ -32,7 +32,7 @@
   Current open source projects</h2>
 <ul>
   <li><a href="https://github.com/nabondance/afthonia">Afthonia</a>: a sfdx plugin</li>
-  <li><a href="https://github.com/nabondance/Trailhead-Stats-Updater">Trailhead-Stats-Updater</a>: a GH Action to bring Trailhead into GitHub profile Readme (see below)</li>
+  <li><a href="https://github.com/nabondance/Trailhead-Stats">Trailhead-Stats</a>: a GH Action to bring Trailhead into GitHub profile Readme (see below)</li>
 </ul>
 
 <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Teddy%20Bear.png" alt="Teddy Bear" width="25" height="25" />
