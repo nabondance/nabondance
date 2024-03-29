@@ -25,3 +25,4 @@ jobs:
           display-file: 'README.md'
           file-format: 'html'
           card-path: './'
+          nb-skills: 3
