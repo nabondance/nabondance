@@ -18,7 +18,7 @@ jobs:
         uses: actions/checkout@v4
       - name: Get Trailhead stats
         id: trailhead-stats
-        uses: nabondance/Trailhead-Stats@main
+        uses: nabondance/Trailhead-Stats@better_github
         with:
           trailhead-username: nabondance
           display-type: 'card'
