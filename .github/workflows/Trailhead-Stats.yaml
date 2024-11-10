@@ -25,4 +25,5 @@ jobs:
           display-file: 'README.md'
           file-format: 'html'
           card-path: './TS-cards'
-          show-skill-number: 3
+          show-skill-number: 4
+          show-skill-theme: 'winter'
