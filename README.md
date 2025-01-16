@@ -31,7 +31,7 @@
 <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Construction.png" alt="Construction" width="25" height="25" />
   Current open source projects</h2>
 <ul>
-  <li><a href="https://github.com/nabondance/afthonia">Afthonia</a>: a sfdx plugin</li>
+  <li><a href="https://thb.nabondance.me">Trailhead-Banner</a>: a website to generate your LinkedIn banner based on your Trailhead stats</li>
   <li><a href="https://github.com/nabondance/Trailhead-Stats">Trailhead-Stats</a>: a GH Action to bring Trailhead into GitHub profile Readme (see below)</li>
 </ul>
 
