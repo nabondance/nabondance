@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2115" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2015" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2{margin:8px 0 2px;padding:0;color:#0366d6;font-size:20px;font-weight:700}h2{font-weight:400;font-size:16px}.gauge text,h1 svg,h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column,footer{display:flex;flex-direction:column}.column{align-items:center}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;justify-content:flex-end;padding:0 4px}.categories,.category{display:flex;align-items:center}.categories{justify-content:space-around;margin-top:4px}.category{flex-direction:column;flex:1 1 0}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.repository .description{display:block;width:440px;white-space:normal;color:#666;margin-left:38px;font-size:13px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.starlist{padding-left:28px;width:460px}.starlist&gt;.count,.starlist&gt;.description{margin-left:32px}.starlist&gt;.count{font-size:12px;color:#666}.starlist .repositories{margin-left:-5px;margin-bottom:20px}.starlist .repository{margin:6px 0 0}.starlist .repository .description{font-size:11px}.starlist .languages{margin-top:6px;padding-left:13px}.field.license.details{display:flex;justify-content:space-between}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement .gh{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2{margin:8px 0 2px;padding:0;color:#0366d6;font-size:20px;font-weight:700}h2{font-weight:400;font-size:16px}.gauge text,h1 svg,h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column,footer{display:flex;flex-direction:column}.column{align-items:center}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;justify-content:flex-end;padding:0 4px}.categories,.category{display:flex;align-items:center}.categories{justify-content:space-around;margin-top:4px}.category{flex-direction:column;flex:1 1 0}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.repository .description{display:block;width:440px;white-space:normal;color:#666;margin-left:38px;font-size:13px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.starlist{padding-left:28px;width:460px}.starlist&gt;.count,.starlist&gt;.description{margin-left:32px}.starlist&gt;.count{font-size:12px;color:#666}.starlist .repositories{margin-left:-5px;margin-bottom:20px}.starlist .repository{margin:6px 0 0}.starlist .repository .description{font-size:11px}.starlist .languages{margin-top:6px;padding-left:13px}.field.license.details{display:flex;justify-content:space-between}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement .gh{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.space{margin-left:7px}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -32,15 +32,15 @@
                                 <g>
                                     <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            2035 Commits
+                            2034 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -81,7 +81,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                             </svg>
-                            197 Pull requests opened
+                            201 Pull requests opened
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -203,7 +203,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/>
                                     </svg>
-                                    411 views in last two weeks
+                                    417 views in last two weeks
                                 </div>
                             </section>
                         </div>
@@ -264,12 +264,12 @@
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#30 Update texts and fix logo</span>
+                                        <span class="issue">#35 Carousel fix</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">parisif/think2</span></div>
-                                    <div>9 files changed <span class="code">++42 --29</span></div>
+                                    <div>3 files changed <span class="code">++67 --49</span></div>
                                 </div>
                             </section>
                         </div>
@@ -277,26 +277,14 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 3 commits in
+                                        Created new
+                      branch
+                                        <span class="code">carousel-fix</span>
+                                        in
                                         <span class="repo">parisif/think2</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">textes</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#d1dd1e7</div>
-                                        <div class="message">feat: update statistics title for clarity and impact</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c49d2d3</div>
-                                        <div class="message">feat: add statistics section to index page highlighting AI impact in businesses</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9455a9d</div>
-                                        <div class="message">fix: update Logo component styles for improved responsiveness</div>
                                     </div>
                                 </div>
                             </section>
@@ -308,59 +296,206 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 12 commits in
+                                        Pushed 14 commits in
                                         <span class="repo">parisif/think2</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">textes</span></div>
+                                    <div>on branch <span class="code">swiper-blog</span></div>
                                     <div class="commit">
-                                        <div class="sha">#14da1e6</div>
-                                        <div class="message">feat: fix share button bottom rounded</div>
+                                        <div class="sha">#7abd5e3</div>
+                                        <div class="message">fix: remove unnecessary blank lines in config.yaml</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#80c9ac1</div>
-                                        <div class="message">fix: update SHARE button styles for responsive design</div>
+                                        <div class="sha">#b467fd7</div>
+                                        <div class="message">fix: update indentation and formatting in labeler.yml workflow</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#74bfe33</div>
-                                        <div class="message">fix: increase icon size in Note widget for better visibility</div>
+                                        <div class="sha">#8c0306e</div>
+                                        <div class="message">feat: add SwiperCarouselBlog component and integrate into index.astro</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#d8c5fae</div>
-                                        <div class="message">fix: layout on index</div>
+                                        <div class="sha">#6f8ab18</div>
+                                        <div class="message">feat: replace SwiperCarousel with SwiperCarouselCard</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#a6822c4</div>
-                                        <div class="message">fix: update CRM messaging and clean up widget structure</div>
+                                        <div class="sha">#93c31b5</div>
+                                        <div class="message">Merge pull request #32 from parisif/dependabot/npm_and_yarn/preview/astro-5.4.2
+
+Bump astro from 5.2.5 to 5.4.2</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#865f256</div>
-                                        <div class="message">fix: think2 logo keep the same size</div>
+                                        <div class="sha">#34a1d69</div>
+                                        <div class="message">Bump astro from 5.2.5 to 5.4.2
+
+Bumps [astro](https://github.com/withastro/astro/tree/HEAD/packages/astro) from 5.2.5 to 5.4.2.
+- [Release notes](https://github.com/withastro/astro/releases)
+- [Changelog](https://github.com/withastro/astro/blob/main/packages/astro/CHANGELOG.md)
+- [Commits](https://github.com/withastro/astro/commits/astro@5.4.2/packages/astro)
+
+---
+updated-dependencies:
+- dependency-name: astro
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#6257099</div>
-                                        <div class="message">fix: correct typo in thank you message</div>
+                                        <div class="sha">#9bbfd7a</div>
+                                        <div class="message">feat: enhance SwiperCarousel styling and update autoplay behavior; add new articles on Agent Force</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#ed2bc8b</div>
-                                        <div class="message">fix: remove useless things on logo</div>
+                                        <div class="sha">#bbf4ba7</div>
+                                        <div class="message">Merge pull request #24 from parisif/dependabot/npm_and_yarn/preview/npm-development-e4eff645fb
+
+Bump the npm-development group across 1 directory with 10 updates</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#bc3e876</div>
-                                        <div class="message">fix: update job titles for co-founders on about page</div>
+                                        <div class="sha">#524e872</div>
+                                        <div class="message">Merge pull request #33 from parisif/play-menu
+
+feat: add menu on service page</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#1be2e46</div>
-                                        <div class="message">feat: add apple touch icon</div>
+                                        <div class="sha">#ee2f38e</div>
+                                        <div class="message">feat: remove ServiceCards component import from index.astro</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#0842918</div>
-                                        <div class="message">feat: update favicon</div>
+                                        <div class="sha">#77b6f21</div>
+                                        <div class="message">fix: remove trailing space in titleClass definition in Headline.astro</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#05eec76</div>
-                                        <div class="message">feat: update subtitles in recruitment page to enhance clarity and engagement</div>
+                                        <div class="sha">#718747b</div>
+                                        <div class="message">feat: add MenuPlay component and integrate it into play.astro</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9a30b4c</div>
+                                        <div class="message">refactor: update comments for clarity in play.astro</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5a07c65</div>
+                                        <div class="message">Bump the npm-development group across 1 directory with 10 updates
+
+Bumps the npm-development group with 10 updates in the / directory:
+
+| Package | From | To |
+| --- | --- | --- |
+| [@astrojs/mdx](https://github.com/withastro/astro/tree/HEAD/packages/integrations/mdx) | `4.0.8` | `4.1.0` |
+| [@eslint/js](https://github.com/eslint/eslint/tree/HEAD/packages/js) | `9.20.0` | `9.21.0` |
+| [@types/eslint__js](https://github.com/DefinitelyTyped/DefinitelyTyped/tree/HEAD/types/eslint__js) | `8.42.3` | `9.14.0` |
+| [@typescript-eslint/eslint-plugin](https://github.com/typescript-eslint/typescript-eslint/tree/HEAD/packages/eslint-plugin) | `8.23.0` | `8.25.0` |
+| [@typescript-eslint/parser](https://github.com/typescript-eslint/typescript-eslint/tree/HEAD/packages/parser) | `8.23.0` | `8.25.0` |
+| [eslint](https://github.com/eslint/eslint) | `9.20.0` | `9.21.0` |
+| [prettier](https://github.com/prettier/prettier) | `3.4.2` | `3.5.3` |
+| [tailwind-merge](https://github.com/dcastil/tailwind-merge) | `3.0.1` | `3.0.2` |
+| [typescript](https://github.com/microsoft/TypeScript) | `5.7.3` | `5.8.2` |
+| [typescript-eslint](https://github.com/typescript-eslint/typescript-eslint/tree/HEAD/packages/typescript-eslint) | `8.23.0` | `8.25.0` |
+
+
+
+Updates `@astrojs/mdx` from 4.0.8 to 4.1.0
+- [Release notes](https://github.com/withastro/astro/releases)
+- [Changelog](https://github.com/withastro/astro/blob/main/packages/integrations/mdx/CHANGELOG.md)
+- [Commits](https://github.com/withastro/astro/commits/@astrojs/mdx@4.1.0/packages/integrations/mdx)
+
+Updates `@eslint/js` from 9.20.0 to 9.21.0
+- [Release notes](https://github.com/eslint/eslint/releases)
+- [Changelog](https://github.com/eslint/eslint/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/eslint/eslint/commits/v9.21.0/packages/js)
+
+Updates `@types/eslint__js` from 8.42.3 to 9.14.0
+- [Release notes](https://github.com/DefinitelyTyped/DefinitelyTyped/releases)
+- [Commits](https://github.com/DefinitelyTyped/DefinitelyTyped/commits/HEAD/types/eslint__js)
+
+Updates `@types/eslint__js` from 8.42.3 to 9.14.0
+- [Release notes](https://github.com/DefinitelyTyped/DefinitelyTyped/releases)
+- [Commits](https://github.com/DefinitelyTyped/DefinitelyTyped/commits/HEAD/types/eslint__js)
+
+Updates `@typescript-eslint/eslint-plugin` from 8.23.0 to 8.25.0
+- [Release notes](https://github.com/typescript-eslint/typescript-eslint/releases)
+- [Changelog](https://github.com/typescript-eslint/typescript-eslint/blob/main/packages/eslint-plugin/CHANGELOG.md)
+- [Commits](https://github.com/typescript-eslint/typescript-eslint/commits/v8.25.0/packages/eslint-plugin)
+
+Updates `@typescript-eslint/parser` from 8.23.0 to 8.25.0
+- [Release notes](https://github.com/typescript-eslint/typescript-eslint/releases)
+- [Changelog](https://github.com/typescript-eslint/typescript-eslint/blob/main/packages/parser/CHANGELOG.md)
+- [Commits](https://github.com/typescript-eslint/typescript-eslint/commits/v8.25.0/packages/parser)
+
+Updates `eslint` from 9.20.0 to 9.21.0
+- [Release notes](https://github.com/eslint/eslint/releases)
+- [Changelog](https://github.com/eslint/eslint/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/eslint/eslint/compare/v9.20.0...v9.21.0)
+
+Updates `prettier` from 3.4.2 to 3.5.3
+- [Release notes](https://github.com/prettier/prettier/releases)
+- [Changelog](https://github.com/prettier/prettier/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/prettier/prettier/compare/3.4.2...3.5.3)
+
+Updates `tailwind-merge` from 3.0.1 to 3.0.2
+- [Release notes](https://github.com/dcastil/tailwind-merge/releases)
+- [Commits](https://github.com/dcastil/tailwind-merge/compare/v3.0.1...v3.0.2)
+
+Updates `typescript` from 5.7.3 to 5.8.2
+- [Release notes](https://github.com/microsoft/TypeScript/releases)
+- [Changelog](https://github.com/microsoft/TypeScript/blob/main/azure-pipelines.release.yml)
+- [Commits](https://github.com/microsoft/TypeScript/compare/v5.7.3...v5.8.2)
+
+Updates `typescript-eslint` from 8.23.0 to 8.25.0
+- [Release notes](https://github.com/typescript-eslint/typescript-eslint/releases)
+- [Changelog](https://github.com/typescript-eslint/typescript-eslint/blob/main/packages/typescript-eslint/CHANGELOG.md)
+- [Commits](https://github.com/typescript-eslint/typescript-eslint/commits/v8.25.0/packages/typescript-eslint)
+
+---
+updated-dependencies:
+- dependency-name: "@astrojs/mdx"
+  dependency-type: direct:development
+  update-type: version-update:semver-minor
+  dependency-group: npm-development
+- dependency-name: "@eslint/js"
+  dependency-type: direct:development
+  update-type: version-update:semver-minor
+  dependency-group: npm-development
+- dependency-name: "@types/eslint__js"
+  dependency-type: direct:development
+  update-type: version-update:semver-major
+  dependency-group: npm-development
+- dependency-name: "@types/eslint__js"
+  dependency-type: direct:development
+  update-type: version-update:semver-major
+  dependency-group: npm-development
+- dependency-name: "@typescript-eslint/eslint-plugin"
+  dependency-type: direct:development
+  update-type: version-update:semver-minor
+  dependency-group: npm-development
+- dependency-name: "@typescript-eslint/parser"
+  dependency-type: direct:development
+  update-type: version-update:semver-minor
+  dependency-group: npm-development
+- dependency-name: eslint
+  dependency-type: direct:development
+  update-type: version-update:semver-minor
+  dependency-group: npm-development
+- dependency-name: prettier
+  dependency-type: direct:development
+  update-type: version-update:semver-minor
+  dependency-group: npm-development
+- dependency-name: tailwind-merge
+  dependency-type: direct:development
+  update-type: version-update:semver-patch
+  dependency-group: npm-development
+- dependency-name: typescript
+  dependency-type: direct:development
+  update-type: version-update:semver-minor
+  dependency-group: npm-development
+- dependency-name: typescript-eslint
+  dependency-type: direct:development
+  update-type: version-update:semver-minor
+  dependency-group: npm-development
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                     </div>
                                 </div>
                             </section>
@@ -369,35 +504,16 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 5 commits in
-                                        <span class="repo">parisif/think2</span>
+                                        Opened
+                                        <span class="issue">#34 feat: add swiper for blog posts</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">textes</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#20cf2fc</div>
-                                        <div class="message">feat: fix share button bottom rounded</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#39d4be3</div>
-                                        <div class="message">fix: update SHARE button styles for responsive design</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5bda342</div>
-                                        <div class="message">fix: increase icon size in Note widget for better visibility</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4aaf649</div>
-                                        <div class="message">fix: layout on index</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#07b2309</div>
-                                        <div class="message">fix: update CRM messaging and clean up widget structure</div>
-                                    </div>
+                                    <div> in <span class="repo">parisif/think2</span></div>
+                                    <div>7 files changed <span class="code">++250 --23</span></div>
                                 </div>
                             </section>
                         </div>
@@ -561,7 +677,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="63.103353867214224 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="63.18822724161535 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -672,7 +788,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="38.75 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="40.81666666666666 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -700,7 +816,7 @@
                                     <span class="prefix">Great</span>
                                     contributor
                                 </div>
-                                <div class="text">Opened 275 pull requests</div>
+                                <div class="text">Opened 279 pull requests</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -892,7 +1008,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 918k out of 226m repositories</span>
+                                    <span class="gh">ranked 918k out of 232m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 33 stars</div>
                             </div>
@@ -971,7 +1087,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.58m out of 226m repositories</span>
+                                    <span class="gh">ranked 5.58m out of 232m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -1089,7 +1205,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 Mar 2025, 01:19:42 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 7 Mar 2025, 01:19:47 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
