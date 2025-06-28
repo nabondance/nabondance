@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1195" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1079" class="">
     <defs>
         <style/>
     </defs>
@@ -30,11 +30,11 @@
                         <div class="field calendar">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
-                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="15" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            2462 Commits
+                            2464 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -264,6 +264,26 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
+                                        <span class="repo">nabondance/nabondance</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">output</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#00a701a</div>
+                                        <div class="message">Deploy to GitHub pages</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
                                         <span class="repo">parisif/think2</span>
                                     </div>
                                 </div>
@@ -332,54 +352,6 @@
                                     <div class="commit">
                                         <div class="sha">#4897b8a</div>
                                         <div class="message">feat(agentforce-decouverte): adjust ProductAccordion styles and integrate Timeline for agenda display</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 8 commits in
-                                        <span class="repo">parisif/think2</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">landing-offre-decouverte</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#26774aa</div>
-                                        <div class="message">fix(agentforce-decouverte): enhance ProductAccordion details and agendas for better clarity</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#48c5516</div>
-                                        <div class="message">feat(offre-decouverte): update summer offer banner image</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8ece0be</div>
-                                        <div class="message">fix(agentforce-decouverte): update subtitle visibility and format ProductAccordion components</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#059ab52</div>
-                                        <div class="message">fix(agentforce-decouverte): update action form URL</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#67fb826</div>
-                                        <div class="message">fix(agentforce-decouverte): correct background color class for Banner component</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a2a3d98</div>
-                                        <div class="message">rename agentforce decouverte</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#798ecd1</div>
-                                        <div class="message">feat(offre-decouverte): add Banner component and integrate summer offer image</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f6e06d9</div>
-                                        <div class="message">refactor(offre-decouverte):  ProductAccordion component</div>
                                     </div>
                                 </div>
                             </section>
@@ -474,7 +446,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Jun 2025, 02:22:50 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 28 Jun 2025, 02:21:39 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
