@@ -33,11 +33,11 @@
     <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Baguette%20Bread.png" alt="Baguette Bread" width="25" height="25" /> At French Touch Dreamin' 25: <a href="https://docs.google.com/presentation/d/1Pf7mAgvoYRTwqWfKbJOCKnct8dvUM7hB">Technical Lead vs. Technical Architect</a>
 </ul>
 
-<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Construction.png" alt="Construction" width="25" height="25" />
+<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="High Voltage" width="25" height="25" />
   Current open source projects</h2>
 <ul style="list-style-type: none;">
-  <li><a href="https://thb.nabondance.me">Trailhead-Banner</a>: a website to generate your LinkedIn banner based on your Trailhead stats</li>
-  <li><a href="https://github.com/nabondance/Trailhead-Stats">Trailhead-Stats</a>: a GH Action to bring Trailhead into GitHub profile Readme (see below)</li>
+  <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25" /> <a href="https://thb.nabondance.me">Trailhead-Banner</a>: a website to generate your LinkedIn banner based on your Trailhead stats</li>
+  <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Droplet.png" alt="Droplet" width="25" height="25" /> <a href="https://github.com/nabondance/Trailhead-Stats">Trailhead-Stats</a>: a GH Action to bring Trailhead into GitHub profile Readme (see below)</li>
 </ul>
 
 <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Teddy%20Bear.png" alt="Teddy Bear" width="25" height="25" />
