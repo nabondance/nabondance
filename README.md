@@ -12,7 +12,7 @@
 </p>
 
 <h2>🐱‍💻 About me</h2>
-<ul>
+<ul style="list-style-type: none;">
     <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" /> I'm Nathan !</li>
     <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cloud.png" alt="Cloud" width="25" height="25" /> Salesforce Architect</li>
     <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Briefcase" width="25" height="25" /> Cofounder & CTO of <a href="https://think2.ai">Think2</a></li>
@@ -23,7 +23,7 @@
 
 <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Megaphone.png" alt="Megaphone" width="25" height="25" />
  My Talks</h2>
-<ul>
+<ul style="list-style-type: none;">
     <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Baguette%20Bread.png" alt="Baguette Bread" width="25" height="25" /> At French Touch Dreamin' 22: <a href="https://speakerdeck.com/nabondance/frenchtouchdreamin-real-data-in-dev-environment-from-myth-to-reality">Real data in dev environment</a>  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Film%20Projector.png" alt="Film Projector" width="25" height="25" /> <a href="https://www.youtube.com/watch?v=skFz7WMMnsE&ab_channel=FrenchTouchDreamin">video</a></li>
     <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Baguette%20Bread.png" alt="Baguette Bread" width="25" height="25" /> At French Touch Dreamin' 23: <a href="https://speakerdeck.com/nabondance/frenchtouchdreamin-elevate-your-devops-how-scratch-orgs-pools-fit-into-your-salesforce-strategy">How Scratch Orgs Pools Fit Into Your Salesforce Strategy</a>  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Film%20Projector.png" alt="Film Projector" width="25" height="25" /> <a href="https://www.youtube.com/watch?v=09WEqN1emIM&ab_channel=FrenchTouchDreamin">video</a></li>
     <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Croissant.png" alt="Croissant" width="25" height="25" /> At Agentforce World Tour Paris 25: <a href="https://github.com/Think2Corp/AgentforceWorldTour25">Agentforce CLI: Créer un agent depuis votre terminal</a></li>
@@ -35,7 +35,7 @@
 
 <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Construction.png" alt="Construction" width="25" height="25" />
   Current open source projects</h2>
-<ul>
+<ul style="list-style-type: none;">
   <li><a href="https://thb.nabondance.me">Trailhead-Banner</a>: a website to generate your LinkedIn banner based on your Trailhead stats</li>
   <li><a href="https://github.com/nabondance/Trailhead-Stats">Trailhead-Stats</a>: a GH Action to bring Trailhead into GitHub profile Readme (see below)</li>
 </ul>
