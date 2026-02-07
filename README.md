@@ -43,7 +43,14 @@
 <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Teddy%20Bear.png" alt="Teddy Bear" width="25" height="25" />
   My Trailhead Stats</h2>
 <!--TH_Stats:start-->
-undefined
+
+<a href="https://www.salesforce.com/trailblazer/nabondance">
+<picture>
+    <source media="(prefers-color-scheme: light)" srcset="TS-cards/TScard-light.png">
+    <source media="(prefers-color-scheme: dark)" srcset="TS-cards/TScard-dark.png">
+    <img alt="Shows the Trailhead Stats card in either light or dark theme." src="TS-cards/TScard-light.png">
+</picture>
+</a>
 <!--TH_Stats:end-->
 
 <details>
