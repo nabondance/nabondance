@@ -133,3 +133,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nabondance/nabondance/output/github-snake.svg">
   <img alt="Shows a snake in either light or dark theme." src="https://raw.githubusercontent.com/nabondance/nabondance/output/github-snake.svg">
 </picture>
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Heart%20Hands.png" alt="Heart Hands" width="200" height="200" />
