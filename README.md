@@ -37,6 +37,7 @@
     <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Croissant.png" alt="Croissant" width="25" height="25" /> At Agentforce World Tour Paris 26: <a href="https://speakerdeck.com/nabondance/personne-ne-voit-ton-trailhead-on-en-parle">Personne ne voit ton Trailhead. On en parle ?
     </a></li>
     <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Bottle%20with%20Popping%20Cork.png" alt="Bottle with Popping Cork" width="25" height="25" /> At Viva Tech 26: <a href="https://speakerdeck.com/nabondance/lia-en-entreprise-derriere-chaque-interaction">L'IA en entreprise: Derrière chaque interaction</a></li>
+    <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Sandwich.png" alt="Sandwich" width="25" height="25" /> At Paris Dev Group July 26: <a href="https://speakerdeck.com/nabondance/dev-group-paris-july-26-sans-tests-vos-agents-ne-sont-pas-fiables">Sans tests, vos agents ne sont pas fiables</a></li>
 </ul>
 
 <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="High Voltage" width="25" height="25" />
