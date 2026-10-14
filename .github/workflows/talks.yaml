@@ -9,8 +9,25 @@ on:
   workflow_dispatch:
 
 jobs:
-  talks:
-    name: Talks
+  # Pull requests: fail on an invalid talks.json, read-only.
+  check:
+    name: Check talks
+    if: github.event_name == 'pull_request'
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions:
+      contents: read
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Render talks into README.md
+        run: node .github/scripts/render-talks.mjs
+
+  # master: regenerate README.md and commit it.
+  update:
+    name: Update talks
+    if: github.event_name != 'pull_request'
     runs-on: ubuntu-latest
     timeout-minutes: 5
     permissions:
@@ -19,11 +36,9 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-      # Fails on an invalid talks.json, so a broken entry is caught in the pull request.
       - name: Render talks into README.md
         run: node .github/scripts/render-talks.mjs
       - name: Commit README.md
-        if: github.event_name != 'pull_request'
         run: |
           git diff --quiet README.md && exit 0
           git config user.name "github-actions[bot]"

@@ -5,6 +5,8 @@ import { readFileSync, writeFileSync } from "node:fs";
 const EMOJI_BASE =
   "https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/";
 const MONTHS = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
+// Keep in sync with the flags on nabondance.me (src/app/talks/page.tsx).
+const LANGUAGES = ["en", "fr"];
 const START = "<!--TALKS:start-->";
 const END = "<!--TALKS:end-->";
 
@@ -25,6 +27,9 @@ const renderTalk = (talk, index) => {
   const match = /^(\d{4})(?:-(0[1-9]|1[0-2]))?$/.exec(talk.date ?? "");
   if (!match) throw new Error(`${where}: date must be YYYY or YYYY-MM, got "${talk.date}"`);
   if (!talk.slides && !talk.repo) throw new Error(`${where}: needs slides or repo`);
+  if (!LANGUAGES.includes(talk.lang)) {
+    throw new Error(`${where}: lang must be one of ${LANGUAGES.join(", ")}, got "${talk.lang}"`);
+  }
 
   const [, year, month] = match;
   const when = [month && MONTHS[Number(month) - 1], year.slice(2)].filter(Boolean).join(" ");
